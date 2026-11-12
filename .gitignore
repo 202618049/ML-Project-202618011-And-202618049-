@@ -1,2 +1,6 @@
 
 data/train_batched.csv
+data/train_cleaned.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
